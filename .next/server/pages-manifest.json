@@ -1,0 +1,22 @@
+{
+  "/_app": "pages/_app.js",
+  "/_document": "pages/_document.js",
+  "/api/educations/[id]": "pages/api/educations/[id].js",
+  "/api/educations": "pages/api/educations.js",
+  "/api/experiences/[id]": "pages/api/experiences/[id].js",
+  "/api/experiences": "pages/api/experiences.js",
+  "/api/extras/[id]": "pages/api/extras/[id].js",
+  "/api/extras": "pages/api/extras.js",
+  "/api/personals/[id]": "pages/api/personals/[id].js",
+  "/api/personals": "pages/api/personals.js",
+  "/api/resumes/[id]": "pages/api/resumes/[id].js",
+  "/api/resumes": "pages/api/resumes.js",
+  "/dashboard": "pages/dashboard.js",
+  "/editor/[id]": "pages/editor/[id].js",
+  "/": "pages/index.js",
+  "/sign-in/[[...index]]": "pages/sign-in/[[...index]].js",
+  "/sign-up/[[...index]]": "pages/sign-up/[[...index]].js",
+  "/templates": "pages/templates.js",
+  "/user/[[...index]]": "pages/user/[[...index]].js",
+  "/_error": "pages/_error.js"
+}
